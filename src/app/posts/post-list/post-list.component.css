@@ -1,0 +1,17 @@
+.info-text{
+    text-align: center;
+}
+mat-spinner {
+    margin: auto;
+}
+.image {
+    height: 10rem;
+    margin: 1rem auto;
+}
+.image img {
+    height: 100%;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
+mat-paginator {
+    margin-top: 1rem;
+}
